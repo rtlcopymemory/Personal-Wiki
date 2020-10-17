@@ -1,0 +1,16 @@
+"*":
+  "atom-beautify":
+    c:
+      beautify_on_save: true
+    cpp:
+      beautify_on_save: true
+    html:
+      beautify_on_save: true
+      end_with_newline: true
+  core:
+    telemetryConsent: "no"
+    uriHandlerRegistration: "always"
+  "exception-reporting":
+    userId: "ece6b52c-8b42-4d90-8317-2316c9b47776"
+  welcome:
+    showOnStartup: false
