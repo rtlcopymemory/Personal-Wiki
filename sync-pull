@@ -1,0 +1,3 @@
+#!/bin/sh
+
+rclone sync google-drive:KeePass ~/Keepass
